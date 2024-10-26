@@ -63,21 +63,8 @@ To get a local copy up and running follow these simple steps.
 - Install [Spring Boot](https://spring.io/projects/spring-boot)
 - Install [MySQL](https://www.mysql.com/)
 
-### Installation
-1. Clone the repo
-   ```bash
-   git clone https://github.com/Gaja78/Rule-Engine-with-AST.git
-   ```
-2. Navigate into the directory
-   ```bash
-   cd Rule-Engine-with-AST
-   ```
-3. Run the application
-   ```bash
-   ./mvnw spring-boot:run
-   ```
 
----
+
 
 ## 📫 Contact
 Feel free to reach out via [GitHub](https://github.com/Gaja78) or my email: gajagajendra1718@gmail.com.
